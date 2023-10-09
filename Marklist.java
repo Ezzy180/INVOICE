@@ -61,7 +61,7 @@ public class Marklist {
 System.out.println("*********************************************************************************************");
 System.out.println("\t\t\t\tSTUDENT MARKLIST");
 System.out.println("*********************************************************************************************");
-System.out.print("ROLL\t NAME\t MARK1\t MARK2\t MARK3\t TOTAL\t RESULT\t AVERAGE");
+System.out.println("ROLL\t NAME\t MARK1\t MARK2\t MARK3\t TOTAL\t RESULT\t AVERAGE");
 
 System.out.println("101\t"+Name[0]+"\t\t"+scores[0][0]+"\t"+scores[0][1]+"\t"+scores[0][2]+"\t"+total[0]+"\t"+hasPassed+"\t"+average[0]+"\t"+Grade);
 System.out.println("101\t"+Name[1]+"\t\t"+scores[1][0]+"\t"+scores[1][1]+"\t"+scores[1][2]+"\t"+total[1]+"\t"+hasPassed+"\t"+average[1]+"\t"+Grade);
